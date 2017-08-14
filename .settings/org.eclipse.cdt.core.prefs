@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/0.775183692/IDF_PATH/delimiter=;
+environment/project/0.775183692/IDF_PATH/operation=replace
+environment/project/0.775183692/IDF_PATH/value=C\:/Users/danny/Documents/esp-idf
+environment/project/0.775183692/PATH/delimiter=;
+environment/project/0.775183692/PATH/operation=replace
+environment/project/0.775183692/PATH/value=C\:\\msys32\\usr\\bin;C\:\\msys32\\mingw32\\bin;C\:\\msys32\\opt\\xtensa-esp32-elf\\bin
+environment/project/0.775183692/V/delimiter=;
+environment/project/0.775183692/V/operation=append
+environment/project/0.775183692/V/value=1
+environment/project/0.775183692/append=true
+environment/project/0.775183692/appendContributed=true
